@@ -1,6 +1,7 @@
 <html>
 <body>
 <h1>WELCOME TO DEVOPS ONLINE CLASS</h1>
+ <h2>THIS IS THE MY FIRST APPLICATION TOMCAT</h2>
 </body>
 <body style="color:red;">
  <div class="container">
